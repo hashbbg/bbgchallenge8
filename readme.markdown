@@ -29,7 +29,7 @@ Fork this repo, create a folder for your entry, then pull request us when you're
 #### Content restriction
 
 * Use only content you have a legal right to.
-* PG13 content.  There's no problem with serious topics, but curb the explicit content.
+* There's no problem with serious topics, but curb the explicit content.  Any game with more serious content than [PG13](http://www.mpaa.org/ratings/what-each-rating-means) must show an up-front warning. 
 
 #### Time restriction
 
@@ -47,4 +47,4 @@ Use any lib or tool you like.  It's all fair game ;)
 
 #### Platform
 
-It has to run in a browser! Feel free to specify *which* browser, but remember; if you're too specific, fewer people may end up playing it.k
+It has to run in a browser! Feel free to specify *which* browser, but remember; if you're too specific, fewer people may end up playing it.
