@@ -29,7 +29,7 @@ Fork this repo, create a folder for your entry, then pull request us when you're
 #### Content restriction
 
 * Use only content you have a legal right to.
-* There's no problem with serious topics, but curb the explicit content.  Any game with more serious content than [PG13](http://www.mpaa.org/ratings/what-each-rating-means) must show an up-front warning. 
+* There's no problem with serious topics, but any explicit content should give the viewer some warning.  Any game with more serious content than [PG13](http://www.mpaa.org/ratings/what-each-rating-means) must show an up-front warning. 
 
 #### Time restriction
 
