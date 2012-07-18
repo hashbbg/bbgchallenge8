@@ -16,7 +16,9 @@ The challenge starts on 15th July, 5pm GMT, and finishes 15th August, 5pm GMT.
 
 The theme for the contest is:
 
-***Summer Mushroom Crisis***
+***Summer***
+
+***Mushroom***
 
 ![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
 
