@@ -2,7 +2,7 @@
 
 ![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
 
-[#bbg](http://hashbbg.com) is having its either monthly game creation challenge!  During the next month, entrants will be creating a game around the theme/name chosen by [videogamena.me](http://videogamena.me/).  Each entrant has a maximum of 12 hours to create code, art and music towards their game.
+[#bbg](http://hashbbg.com) is having its monthly game creation challenge!  During the next month, entrants will be creating a game around the theme/name chosen by [videogamena.me](http://videogamena.me/).  Each entrant has a maximum of 12 hours to create code, art and music towards their game.
 
 If you have an itch to work with friends, then feel free to team up and submit a team entry.  Every member has 12 hours, and the size of your team has to be disclosed with your submission.
 
