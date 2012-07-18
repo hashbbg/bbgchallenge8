@@ -18,7 +18,7 @@ The challenge starts on 15th July, 5pm GMT, and finishes 15th August, 5pm GMT.
 
 The theme for the contest is:
 
-***Summer Mushroom Crisis***
+***Summer Mushroom Crysis***
 
 Picked randomly using [videogamena.me](http://videogamena.me/).
 
