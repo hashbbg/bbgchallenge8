@@ -18,6 +18,8 @@ The theme for the contest is:
 
 ***Summer Mushroom Crisis***
 
+![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
+
 Picked randomly using [videogamena.me](http://videogamena.me/).
 
 ## Rules
