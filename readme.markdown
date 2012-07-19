@@ -1,6 +1,8 @@
 # BBGChallenge8
 
-[#bbg](http://hashbbg.com) is having its either monthly game creation challenge!  During the next month, entrants will be creating a game around the theme/name chosen by [videogamena.me](http://videogamena.me/).  Each entrant has a maximum of 12 hours to create code, art and music towards their game.
+![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
+
+[#bbg](http://hashbbg.com) is having its monthly game creation challenge!  During the next month, entrants will be creating a game around the theme/name chosen by [videogamena.me](http://videogamena.me/).  Each entrant has a maximum of 12 hours to create code, art and music towards their game.
 
 If you have an itch to work with friends, then feel free to team up and submit a team entry.  Every member has 12 hours, and the size of your team has to be disclosed with your submission.
 
@@ -16,11 +18,7 @@ The challenge starts on 15th July, 5pm GMT, and finishes 15th August, 5pm GMT.
 
 The theme for the contest is:
 
-***Summer***
-
-***Mushroom***
-
-![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
+***Summer Mushroom Crysis***
 
 Picked randomly using [videogamena.me](http://videogamena.me/).
 
