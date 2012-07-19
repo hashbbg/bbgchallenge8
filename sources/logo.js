@@ -1,4 +1,33 @@
 ﻿window.onload = function() {
+    if (!Function.prototype.bind) {
+      Function.prototype.bind = function (oThis) {
+        if (typeof this !== "function") {
+          // closest thing possible to the ECMAScript 5 internal IsCallable function
+          throw new TypeError("Function.prototype.bind - what is trying to be bound is not callable");
+        }
+
+        var aArgs = Array.prototype.slice.call(arguments, 1),
+            fToBind = this,
+            fNOP = function () {},
+            fBound = function () {
+                try {
+              return fToBind.apply(this instanceof fNOP
+                                     ? this
+                                     : oThis,
+                                   aArgs.concat(Array.prototype.slice.call(arguments)));
+                } catch(e) {
+                    //catching what javascriptcore considers an illegal use of instanceof
+                    return fToBind.apply(oThis, aArgs.concat(Array.prototype.slice.call(arguments)));
+                }
+            };
+
+        fNOP.prototype = this.prototype;
+        fBound.prototype = new fNOP();
+
+        return fBound;
+      };
+    }    
+    
     var canvas = document.getElementById('hash-bbg-logo');
     canvas.width = 500;
     canvas.height = 280;
