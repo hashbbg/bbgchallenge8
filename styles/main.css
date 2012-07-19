@@ -1,0 +1,64 @@
+﻿body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background: #E3EFEB;
+    font-size: 16px;
+    font-family: helvetica;
+    color: #222a22;
+}
+
+article {
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    position: absolute;
+    left: 400px;
+    top: 90px;
+    font-size: 96px;
+    font-family: courier;
+    margin: 0;
+    padding: 0;
+    color: #600;
+}
+
+h2, h4 {
+    margin: 0;
+    padding: 0;
+    font-family: courier;
+    color: #666866;
+    font-size: 32px;
+}
+
+a {
+    text-decoration: none;
+    color: #7AA4D0;
+}
+.article-head a {
+    font-size: 20px;
+}
+article a {
+    font-size: 18px;
+}
+
+.theme-illustration {
+    float: right;
+}
+
+.theme-name {
+    margin: 0;
+    padding: 0;
+    font-size: 64px;
+}
+
+.article-head {
+    font-style: italic;
+    font-size: 18px;
+    text-indent: 2em;
+}
+
+section {
+    margin-left: 40px;
+}
