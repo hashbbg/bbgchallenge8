@@ -83,7 +83,7 @@
         if(lastDraw === null) {
             lastDraw = time;
         }
-        if(time !== undefined && time - lastDraw > 1000 / 60) {
+        if(time === undefined || time - lastDraw > 1000 / 60) {
             lastDraw = time;
             update();
             draw();
