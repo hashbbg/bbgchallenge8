@@ -27,7 +27,7 @@
         return fBound;
       };
     }    
-    
+
     var canvas = document.getElementById('hash-bbg-logo');
     canvas.width = 500;
     canvas.height = 280;
@@ -83,7 +83,7 @@
         if(lastDraw === null) {
             lastDraw = time;
         }
-        if(time - lastDraw > 1000 / 60) {
+        if(time !== undefined && time - lastDraw > 1000 / 60) {
             lastDraw = time;
             update();
             draw();
