@@ -1,4 +1,4 @@
-# BBGChallenge8
+# [BBGChallenge8](http://hashbbg.github.com/bbgchallenge8)
 
 ![Alt theme illustration](https://github.com/hashbbg/bbgchallenge8/raw/master/theme_illustration.png)
 
