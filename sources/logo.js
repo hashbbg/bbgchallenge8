@@ -41,7 +41,10 @@
                        window.webkitRequestAnimationFrame || 
                        window.mozRequestAnimationFrame    || 
                        window.oRequestAnimationFrame      || 
-                       window.msRequestAnimationFrame;
+                       window.msRequestAnimationFrame || 
+                        function( callback ){
+                            window.setTimeout(callback, 1000 / 60);
+                        };
 
     for(var i = 0 ; i < imageNames.length ; i++) {
         images[imageNames[i]] = new Image;
