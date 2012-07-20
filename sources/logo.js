@@ -29,7 +29,7 @@
     }    
 
     var canvas = document.getElementById('hash-bbg-logo');
-    canvas.width = 500;
+    canvas.width = 400;
     canvas.height = 280;
     var ctx = canvas.getContext('2d');
     var imageNames = ['hash', 'letters'];

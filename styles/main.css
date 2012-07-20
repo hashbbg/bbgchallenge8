@@ -25,19 +25,29 @@ article {
 }
 
 h1 {
+    display: inline-block;
     font-family: retro;
-    position: absolute;
+    /*
     left: 400px;
     top: 90px;
+    */
     font-size: 132px;
     margin: 0;
     padding: 0;
+    color: #000;
+    vertical-align: middle;
+}
+
+canvas {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 h2, h4 {
     margin: 0;
     padding: 0;
     font-family: retro;
+    color: #666866;
     font-size: 32px;
 }
 
