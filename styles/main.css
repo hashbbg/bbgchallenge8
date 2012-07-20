@@ -1,10 +1,10 @@
 ﻿@font-face {
     font-family: 'retro';
-    src: url('fonts/retro.eot');
-    src: url('fonts/retro.eot?#iefix') format('embedded-opentype'),
-         url('fonts/retro.woff') format('woff'),
-         url('fonts/retro.ttf') format('truetype'),
-         url('fonts/retro.svg#retro') format('svg');
+    src: url('../fonts/retro.eot');
+    src: url('../fonts/retro.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/retro.woff') format('woff'),
+         url('../fonts/retro.ttf') format('truetype'),
+         url('../fonts/retro.svg#retro') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -13,7 +13,7 @@ body {
     position: relative;
     margin: 0;
     padding: 0;
-    background: url('images/background.png') repeat;
+    background: url('../images/background.png') repeat;
     font-size: 16px;
     font-family: helvetica;
     color: #222a22;
